@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Test" time="0.244" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="user.variant" value=""/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.dir" value="F:\ieda项目\MavenDemo"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.home" value="D:\MyEclipse\MyEclipse 10\jre"/>
+    <property name="user.name" value="gu&apos;hao"/>
+    <property name="sun.boot.library.path" value="D:\MyEclipse\MyEclipse 10\jre\bin"/>
+    <property name="user.home" value="C:\Users\gu&apos;hao"/>
+    <property name="localRepository" value="D:\Maven\jar"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="idea.version2019.3.3" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Users\gu&apos;hao\AppData\Local\Temp\"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.class.path" value="F:\ieda项目\MavenDemo\target\test-classes;F:\ieda项目\MavenDemo\target\classes;D:\Maven\jar\junit\junit\4.11\junit-4.11.jar;D:\Maven\jar\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Maven\jar\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar;D:\Maven\jar\cn\codeforfun\mysql-migrate\1.1.2\mysql-migrate-1.1.2.jar;D:\Maven\jar\commons-dbutils\commons-dbutils\1.7\commons-dbutils-1.7.jar;D:\Maven\jar\com\alibaba\druid\1.1.21\druid-1.1.21.jar;D:\Maven\jar\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;D:\Maven\jar\org\springframework\spring-core\5.2.1.RELEASE\spring-core-5.2.1.RELEASE.jar;D:\Maven\jar\org\springframework\spring-jcl\5.2.1.RELEASE\spring-jcl-5.2.1.RELEASE.jar;D:\Maven\jar\mysql\mysql-connector-java\5.1.10\mysql-connector-java-5.1.10.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.script" value=""/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="sun.java.command" value="C:\Users\gu&apos;hao\AppData\Local\Temp\surefire6494382472561183944\surefirebooter1431195673306478513.jar C:\Users\gu&apos;hao\AppData\Local\Temp\surefire6494382472561183944 2020-03-15T17-45-11_287-jvmRun1 surefire7817301331117131535tmp surefire_01986886980524154816tmp"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="surefire.test.class.path" value="F:\ieda项目\MavenDemo\target\test-classes;F:\ieda项目\MavenDemo\target\classes;D:\Maven\jar\junit\junit\4.11\junit-4.11.jar;D:\Maven\jar\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Maven\jar\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar;D:\Maven\jar\cn\codeforfun\mysql-migrate\1.1.2\mysql-migrate-1.1.2.jar;D:\Maven\jar\commons-dbutils\commons-dbutils\1.7\commons-dbutils-1.7.jar;D:\Maven\jar\com\alibaba\druid\1.1.21\druid-1.1.21.jar;D:\Maven\jar\org\slf4j\slf4j-api\1.7.29\slf4j-api-1.7.29.jar;D:\Maven\jar\org\springframework\spring-core\5.2.1.RELEASE\spring-core-5.2.1.RELEASE.jar;D:\Maven\jar\org\springframework\spring-jcl\5.2.1.RELEASE\spring-jcl-5.2.1.RELEASE.jar;D:\Maven\jar\mysql\mysql-connector-java\5.1.10\mysql-connector-java-5.1.10.jar;"/>
+    <property name="java.runtime.version" value="1.7.0_75-b13"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="sun.boot.class.path" value="D:\MyEclipse\MyEclipse 10\jre\lib\resources.jar;D:\MyEclipse\MyEclipse 10\jre\lib\rt.jar;D:\MyEclipse\MyEclipse 10\jre\lib\sunrsasign.jar;D:\MyEclipse\MyEclipse 10\jre\lib\jsse.jar;D:\MyEclipse\MyEclipse 10\jre\lib\jce.jar;D:\MyEclipse\MyEclipse 10\jre\lib\charsets.jar;D:\MyEclipse\MyEclipse 10\jre\lib\jfr.jar;D:\MyEclipse\MyEclipse 10\jre\classes"/>
+    <property name="surefire.real.class.path" value="C:\Users\gu&apos;hao\AppData\Local\Temp\surefire6494382472561183944\surefirebooter1431195673306478513.jar"/>
+    <property name="java.endorsed.dirs" value="D:\MyEclipse\MyEclipse 10\jre\lib\endorsed"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.version" value="24.75-b04"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="java.version" value="1.7.0_75"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.ext.dirs" value="D:\MyEclipse\MyEclipse 10\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.3"/>
+    <property name="basedir" value="F:\ieda项目\MavenDemo"/>
+    <property name="java.library.path" value="D:\MyEclipse\MyEclipse 10\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;;D:\MyEclipse\Java\jdk1.8.0_241\bin;D:\MyEclipse\Java\jdk1.8.0_241\jre\bin;;D:\MyEclipse\MyEclipse 10\bin;D:\MyEclipse\MyEclipse 10\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;;D:\MyEclipse\MyEclipse 10\bin;D:\MyEclipse\MyEclipse 10\jre\bin;;F:\java工具\Java\jdk\bin;F:\java工具\Java\jdk\jre\bin;;C:\Program Files\Java\jdk1.7.0_75\bin;C:\Program Files\Java\jdk1.7.0_75\jre\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\jsp\apache-tomcat-7.0.53-windows-x64\apache-tomcat-7.0.53\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;%MAVEN_HOME%\bin;C:\Users\gu&apos;hao\AppData\Local\Microsoft\WindowsApps;C:\Users\gu&apos;hao\AppData\Local\BypassRuntm;F:\工具\IntelliJ IDEA 2019.1.3\bin;;C:\Users\gu&apos;hao\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;."/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="CN"/>
+  </properties>
+  <testcase name="show" classname="Test" time="0.225"/>
+</testsuite>
